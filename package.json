@@ -1,0 +1,26 @@
+{
+  "name": "ts-template-projekte",
+  "version": "1.0.0",
+  "description": "Starter Template to quickly start smaller scaled projects with Typescript",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JonasWolfram/Typescript-Starter-Template.git"
+  },
+  "author": "Jonas Wolfram",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JonasWolfram/Typescript-Starter-Template/issues"
+  },
+  "homepage": "https://github.com/JonasWolfram/Typescript-Starter-Template#readme",
+  "dependencies": {
+    "serve": "^13.0.2"
+  },
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
