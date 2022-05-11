@@ -2,3 +2,15 @@
   margin: 0;
   padding: 0;
 }
+
+body {
+  font-family: Helvetica Neue, Arial, sans-serif, "Questrial", sans-serif;
+}
+
+h1 {
+  font-size: 116px;
+}
+
+.header-container {
+  margin: 200px 0 120px 120px;
+}
