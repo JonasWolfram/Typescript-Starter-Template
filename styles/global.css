@@ -9,8 +9,21 @@ body {
 
 h1 {
   font-size: 116px;
+  width: 50%;
 }
 
 .header-container {
-  margin: 200px 0 120px 120px;
+  background: red;
+  margin: 160px 0 0 100px;
+}
+.header-container::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.header-container > img {
+  height: 300px;
+  width: auto;
+  float: right;
 }
